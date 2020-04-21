@@ -10,3 +10,10 @@ Main goal is to find the smallest square in the minimal amount of time,
 despite an exponentially growing number of possibilities each time a piece is added.
 
 Fillit was a project for two people. My teammate is a teacher of Maths, so we used some mathematics in the project. Our Fillit works on bits, and we didn't use school library. I made reading amd validation, my teammate - algos.
+
+## How it works
+
+1. Write "make" in command line, few seconds later builds a program.
+2. All tests are in dir "tests"
+
+Or you can run ./tests.sh , but you need valgrind to be installed on your PC   
